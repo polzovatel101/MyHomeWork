@@ -1,2 +1,3 @@
-# MyHomeWork
+﻿# MyHomeWork
 Домашнее задание GoFE2
+Студента Янового Ильи
